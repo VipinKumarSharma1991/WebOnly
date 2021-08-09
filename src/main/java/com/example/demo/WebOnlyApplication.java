@@ -17,7 +17,17 @@ public class WebOnlyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(WebOnlyApplication.class, args);
+		System.out.println("run main method");
 		
 	}
 
 }
+
+
+
+
+
+
+
+
+
